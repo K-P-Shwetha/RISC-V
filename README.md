@@ -1,4 +1,4 @@
- TASK-1[
+ TASK-1
 
 
 Yosys Installation:-
@@ -41,3 +41,26 @@ gtkwave Installation:-
 ![ss2](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/4f78343d-36c6-408c-aac7-c043793e0481)
 
 
+
+
+
+
+RTL view of Vending Machine
+
+
+
+
+
+![Screenshot 2024-02-22 174628](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/c9151312-9660-418f-8f99-7d16b0107173)
+
+
+
+
+
+Output Waveform
+
+
+
+
+
+![Screenshot 2024-02-22 173145](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/7b41e22b-0c06-470c-9913-21561aa018d9)
