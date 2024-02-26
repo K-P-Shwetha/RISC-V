@@ -45,7 +45,25 @@ gtkwave Installation:-
 
 
 
-RTL view of Vending Machine
+ Vending Machine with Change System
+
+
+ State transition
+
+
+
+
+
+
+![image](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/7ac3d5b3-e9b6-49c9-8867-a0aac29b7000)
+
+
+
+
+
+
+Input and output pins
+
 
 
 
