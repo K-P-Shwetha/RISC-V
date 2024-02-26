@@ -69,7 +69,10 @@ Input and output pins
 
 
 
+
 ![Screenshot 2024-02-22 174628](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/c9151312-9660-418f-8f99-7d16b0107173)
+![Screenshot 2024-02-26 183143](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/dbc75f7c-8cc3-4a5e-9df3-180e1bb45598)
+
 
 
 
@@ -81,4 +84,8 @@ Output Waveform
 
 
 
-![Screenshot 2024-02-22 173145](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/7b41e22b-0c06-470c-9913-21561aa018d9)
+
+![Screenshot 2024-02-26 180026](https://github.com/K-P-Shwetha/RISC-V/assets/160413577/0e34705a-2b3b-41bc-b08f-0d5c31a1dd5f)
+
+
+
